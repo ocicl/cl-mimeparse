@@ -1,0 +1,9 @@
+* cl-mimeparse
+
+Common Lisp library for parsing MIME types.
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/mmontone/cl-mimeparse.git |
+| commit  | 93cbdf6                                          |
+| systems | cl-mimeparse                                     |
+|---------+--------------------------------------------------|
